@@ -30,3 +30,11 @@ After that I began building the dashboard. It has cards for total books, total c
 - Add a date finished column so I can see how my reading changes over time.
 - Create a proper script that produces all the book details from an ISBN code to automate the process for larger collections.
 - Add insights based on page counts.
+
+# Skills
+- Microsoft Power BI
+- DAX
+- Data Cleaning
+- Data Entry
+- Microsoft Excel
+- Data Visualization
